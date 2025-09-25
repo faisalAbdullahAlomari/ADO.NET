@@ -1,0 +1,8 @@
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.AssemblyReference.cache
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
+C:\Users\faisa\source\repos\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe.config
